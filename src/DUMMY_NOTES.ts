@@ -29,6 +29,10 @@ const DUMMY_NOTES:INote[] = [
     text: "Get a job",
     link: "https://rozee.pk",
   },
+  {
+    text: "Get a job",
+    link: "https://rozee.pk",
+  },
 ];
 
 export default DUMMY_NOTES;
